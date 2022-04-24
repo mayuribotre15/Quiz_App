@@ -1,4 +1,6 @@
-# Javascript Quiz App
+# <spam style="font-size:50px">Live</spam> <a href="https://mayuribotre15.github.io/Quiz_App/">Demo</a>
+
+# Quiz App
 
 - Questions are dynamically generated using objects constructor
 - Login/Logout System using LocalStorage
@@ -11,7 +13,5 @@
 * Worked on UI as well :p
 
 This is made as an assignment while learning Javascript
-
-Demo: https://ovi.github.io/quiz-app
 
 Key: **11223344**
